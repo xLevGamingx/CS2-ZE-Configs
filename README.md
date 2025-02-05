@@ -1,11 +1,7 @@
-# GFL CS2 Zombie Escape Configs
-
-| Sync Status |
-|:-----------:|
-| [![Sync Files To Main Server](https://github.com/gflze/CS2-ZE-Configs/actions/workflows/ci-master-main.yml/badge.svg)](https://github.com/gflze/CS2-ZE-Configs/actions) [![Sync Files To Test Server](https://github.com/gflze/CS2-ZE-Configs/actions/workflows/ci-master-test.yml/badge.svg)](https://github.com/gflze/CS2-ZE-Configs/actions) |
+# Lev Gaming Zombie Escape2
 
 
-A collection of the EntWatch, Stripper and map configs used on GFL Zombie Escape.
+A collection of the EntWatch, Stripper and map configs used on Lev Gaming
 
 Everything in this repository is auto-synced to our main/test servers on a new commit/push.
 
@@ -78,7 +74,7 @@ Stripper is quite a complicated beast, and unfortunately a single template is no
 
 These are basic CS2 config files containing cvars/commands that get executed on map start.
 
-Some common GFL plugin cvars that you may want to adjust are listed below with their functionalities.
+Some common Lev Gaming plugin cvars that you may want to adjust are listed below with their functionalities.
 ```
 zr_infect_spawn_mz_ratio	// Ratio of all Players to Mother Zombies to be spawned at round start
 zr_infect_spawn_type 0		// Enables classic spawn for the map
