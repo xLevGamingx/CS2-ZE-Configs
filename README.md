@@ -1,4 +1,4 @@
-# Lev Gaming Zombie Escape2
+# Lev Gaming Zombie Escape
 
 
 A collection of the EntWatch, Stripper and map configs used on Lev Gaming
